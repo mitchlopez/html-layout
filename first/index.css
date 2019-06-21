@@ -1,0 +1,26 @@
+body {
+    margin: auto;
+    background-color: lightgray;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .top {
+    width: 100vw;
+    height: 18vh;
+    background-color: gray;
+  }
+  
+  .middle {
+    background-color: white;
+    margin: auto;
+    width: 78vw;
+    height: 71vh;
+  }
+  
+  .bottom { 
+    background-color: black;
+    margin: auto;
+    width: 78vw;
+    height: 11vh;
+  }
